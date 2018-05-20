@@ -1,4 +1,4 @@
-update=Sunday, May 13, 2018 'PMt' 05:37:12 PM
+update=Saturday, May 19, 2018 'PMt' 05:18:18 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,13 @@ LibName28=contrib
 LibName29=valves
 LibName30=cd_vintage
 LibName31=switches
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
