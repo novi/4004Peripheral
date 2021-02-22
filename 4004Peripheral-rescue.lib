@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# 4004Peripheral-rescue_2716
+# 2716
 #
-DEF 4004Peripheral-rescue_2716 U 0 10 Y Y 1 F N
+DEF 2716 U 0 10 Y Y 1 F N
 F0 "U" 150 -200 50 H V C CNN
-F1 "4004Peripheral-rescue_2716" 150 -400 50 H V C CNN
+F1 "2716" 150 -400 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -37,11 +37,11 @@ X Q0 9 700 700 300 L 50 50 1 1 T
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_C
+# C
 #
-DEF 4004Peripheral-rescue_C C 0 10 N Y 1 F N
+DEF C C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "4004Peripheral-rescue_C" 25 -100 50 H V L CNN
+F1 "C" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -55,11 +55,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_CP
+# CP
 #
-DEF 4004Peripheral-rescue_CP C 0 10 N Y 1 F N
+DEF CP C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "4004Peripheral-rescue_CP" 25 -100 50 H V L CNN
+F1 "CP" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -78,11 +78,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_Conn_01x01
+# Conn_01x01
 #
-DEF 4004Peripheral-rescue_Conn_01x01 J 0 40 Y N 1 F N
+DEF Conn_01x01 J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "4004Peripheral-rescue_Conn_01x01" 0 -100 50 H V C CNN
+F1 "Conn_01x01" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -100,11 +100,11 @@ X Pin_1 1 -200 0 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_Conn_01x02
+# Conn_01x02
 #
-DEF 4004Peripheral-rescue_Conn_01x02 J 0 40 Y N 1 F N
+DEF Conn_01x02 J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "4004Peripheral-rescue_Conn_01x02" 0 -200 50 H V C CNN
+F1 "Conn_01x02" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -124,11 +124,11 @@ X Pin_2 2 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_Conn_01x04
+# Conn_01x04
 #
-DEF 4004Peripheral-rescue_Conn_01x04 J 0 40 Y N 1 F N
+DEF Conn_01x04 J 0 40 Y N 1 F N
 F0 "J" 0 200 50 H V C CNN
-F1 "4004Peripheral-rescue_Conn_01x04" 0 -300 50 H V C CNN
+F1 "Conn_01x04" 0 -300 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -152,11 +152,11 @@ X Pin_4 4 -200 -200 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_Conn_01x08
+# Conn_01x08
 #
-DEF 4004Peripheral-rescue_Conn_01x08 J 0 40 Y N 1 F N
+DEF Conn_01x08 J 0 40 Y N 1 F N
 F0 "J" 0 400 50 H V C CNN
-F1 "4004Peripheral-rescue_Conn_01x08" 0 -500 50 H V C CNN
+F1 "Conn_01x08" 0 -500 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -188,11 +188,11 @@ X Pin_8 8 -200 -400 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_Conn_02x20_Odd_Even
+# Conn_02x20_Odd_Even
 #
-DEF 4004Peripheral-rescue_Conn_02x20_Odd_Even J 0 40 Y N 1 F N
+DEF Conn_02x20_Odd_Even J 0 40 Y N 1 F N
 F0 "J" 50 1000 50 H V C CNN
-F1 "4004Peripheral-rescue_Conn_02x20_Odd_Even" 50 -1100 50 H V C CNN
+F1 "Conn_02x20_Odd_Even" 50 -1100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -288,11 +288,11 @@ X Pin_9 9 -200 500 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_GND
+# GND
 #
-DEF 4004Peripheral-rescue_GND #PWR 0 0 Y Y 1 F P
+DEF GND #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "4004Peripheral-rescue_GND" 0 -150 50 H V C CNN
+F1 "GND" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -301,11 +301,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_GS3
+# GS3
 #
-DEF 4004Peripheral-rescue_GS3 J 0 40 Y N 1 F N
+DEF GS3 J 0 40 Y N 1 F N
 F0 "J" 50 200 50 H V C CNN
-F1 "4004Peripheral-rescue_GS3" 50 -199 50 H V C CNN
+F1 "GS3" 50 -199 50 H V C CNN
 F2 "Connectors:GS3" 88 -74 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -321,11 +321,11 @@ X G3 3 -150 -100 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_Intel4289
+# Intel4289
 #
-DEF 4004Peripheral-rescue_Intel4289 U 0 40 Y Y 1 F N
+DEF Intel4289 U 0 40 Y Y 1 F N
 F0 "U" 0 600 60 H V C CNN
-F1 "4004Peripheral-rescue_Intel4289" 0 500 60 H V C CNN
+F1 "Intel4289" 0 500 60 H V C CNN
 F2 "" 0 -900 60 H I C CNN
 F3 "" 0 -900 60 H I C CNN
 DRAW
@@ -373,11 +373,11 @@ X M0 9 -600 1400 200 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_PWR_FLAG
+# PWR_FLAG
 #
-DEF 4004Peripheral-rescue_PWR_FLAG #FLG 0 0 N N 1 F P
+DEF PWR_FLAG #FLG 0 0 N N 1 F P
 F0 "#FLG" 0 75 50 H I C CNN
-F1 "4004Peripheral-rescue_PWR_FLAG" 0 150 50 H V C CNN
+F1 "PWR_FLAG" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -386,11 +386,11 @@ X pwr 1 0 0 0 U 50 50 0 0 w
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_R
+# R
 #
-DEF 4004Peripheral-rescue_R R 0 0 N Y 1 F N
+DEF R R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "4004Peripheral-rescue_R" 0 0 50 V V C CNN
+F1 "R" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -404,11 +404,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_SW_Push
+# SW_Push
 #
-DEF 4004Peripheral-rescue_SW_Push SW 0 40 N N 1 F N
+DEF SW_Push SW 0 40 N N 1 F N
 F0 "SW" 50 100 50 H V L CNN
-F1 "4004Peripheral-rescue_SW_Push" 0 -60 50 H V C CNN
+F1 "SW_Push" 0 -60 50 H V C CNN
 F2 "" 0 200 50 H I C CNN
 F3 "" 0 200 50 H I C CNN
 DRAW
@@ -421,11 +421,11 @@ X 2 2 200 0 100 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
-# 4004Peripheral-rescue_VCC
+# VCC
 #
-DEF 4004Peripheral-rescue_VCC #PWR 0 0 Y Y 1 F P
+DEF VCC #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "4004Peripheral-rescue_VCC" 0 150 50 H V C CNN
+F1 "VCC" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
